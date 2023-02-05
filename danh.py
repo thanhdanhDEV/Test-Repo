@@ -3,3 +3,6 @@ print("My name is " + input_name)
 
 
 print("XIn chao ngay moi")
+
+
+print("Toi la Phong")
