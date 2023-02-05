@@ -6,3 +6,6 @@ print("XIn chao ngay moi")
 
 
 print("Toi la Phong")
+
+
+name = "Danh"
